@@ -9,4 +9,4 @@ insecure
 meteor-platform
 dfischer:phantomjs
 ongoworks:spiderable
-# materialize:materialize
+materialize:materialize
